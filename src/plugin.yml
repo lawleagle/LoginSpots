@@ -1,0 +1,12 @@
+name: LoginSpots
+version: 1.0.1
+author: Manu
+main: network.manu.loginspots.LoginSpots
+api-version: 1.8.8
+depend:
+website: manu.network/plugins/LoginSpots
+commands:
+  loginspots:
+    description: LoginSpots Manages Player Login Locations.
+    usage: /loginspots <add/clear/list/tp> | /loginspots set-min-y [min-y]
+    permission: loginspots.modify

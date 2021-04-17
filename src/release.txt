@@ -1,0 +1,13 @@
+
+RELEASE 1.0.1
+=============
+- moved readme.txt to readme.md
+- added release.txt
+
+RELEASE 1.0.0
+=============
+- added /loginspots add
+- added /loginspots clear
+- added /loginspots tp
+- added /loginspots list
+- added /loginspots set-min-y
